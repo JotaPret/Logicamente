@@ -14,7 +14,7 @@ export default function MiddleNav() {
           className='Audiowide text-4xl font-bold text-black lg:text-5xl'
         >
           Omni<span className='rolex-animate'>Rolex</span>
-        </Link>
+        </Link> 
 
         {/* Search Box */}
         <div className='relative mx-0 ms-6 flex flex-1 flex-col rounded-lg bg-white lg:max-w-2xl'>
